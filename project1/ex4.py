@@ -1,0 +1,5 @@
+print("="*50)
+num1 = eval(input("Enter the first number: "))
+num2 = eval(input("Enter the second number: "))
+print(num1+num2)
+print("="*50)
