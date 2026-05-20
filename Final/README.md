@@ -10,7 +10,7 @@
 5. The program should run and may take a while. Use discretion when selecting a target.
 
 ## Folder Security Scanner
-###### This scanner scans text file within a given folder for specific suspicious words using YARA rules.
+###### This scanner scans text file within a given folder for specific suspicious words.
 Instructions:
 1. Run file
 2. Select a folder to scan by clicking the "Select Folder" button
